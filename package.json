@@ -1,0 +1,24 @@
+{
+  "name": "express-api-starter",
+  "version": "1.0.0",
+  "description": "Clean Express REST API starter with CORS and environment support",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "rest-api",
+    "backend",
+    "starter-template"
+  ],
+  "author": "Devesh Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
